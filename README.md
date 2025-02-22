@@ -1,6 +1,6 @@
-# Analytical Report – Earthquake Data Analysis 🌍
+# Analytical Report – Earthquake Data Analysis
 
-🚀 **[Live Demo of the Report](https://kocajan.github.io/ML-project---Earthquakes/earthquakes.html)**  
+**[Live Demo of the Report](https://kocajan.github.io/ML-project---Earthquakes/earthquakes.html)**  
 
 ---
 
@@ -52,7 +52,7 @@ The report covers the following components:
 
 ---
 
-## ⚙️ Technologies Used  
+## Technologies Used  
 - **Pandas** & **Geopandas** – Data processing and geographical data handling  
 - **Numpy** – Numerical computations  
 - **Matplotlib** – Data visualization  
